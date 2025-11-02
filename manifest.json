@@ -1,0 +1,19 @@
+{
+    "name": "Corazón Natural - Productos Naturales",
+    "short_name": "Corazón Natural",
+    "description": "Tu tienda de confianza para productos 100% naturales",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#198754",
+    "orientation": "portrait-primary",
+    "icons": [
+        {
+            "src": "imagenes/logo.jpg",
+            "sizes": "192x192",
+            "type": "image/jpeg"
+        }
+    ],
+    "categories": ["shopping", "health", "lifestyle"],
+    "lang": "es-CO"
+}
